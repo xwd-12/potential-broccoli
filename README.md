@@ -103,7 +103,7 @@ STM32F407ZGTx (168MHz)
 | `MODE_MANUAL` | 0 | 串口 `mode 0` | 串口直驱 `target_speed[]` |
 | `MODE_LINE_FOLLOW` | 1 | 上电默认 | 巡线传感器 PID, 自主循迹 |
 | `MODE_POSITION` | 2 | 串口 `mode 2` | 编码器位置外环 PID |
-| `MODE_VISUAL_SERVO` | 3 | 串口 `mode 3` | OpenMV 视觉双 PID 对接 |
+| `MODE_VISUAL_SERVO` | 3 | April二维码| OpenMV 视觉双 PID 对接 |
 
 ### 巡线 PID 特性
 
